@@ -42,4 +42,5 @@ public class Copier {
         String line = reader.readln();
         writer.writeln(line);
     }
+    //
 }
